@@ -1,6 +1,6 @@
 # DBTool
   
-  说明:DBTool是对数据库操作的面向对角的封装，使用OC runtime机制实现对sqlite的数据库的增、删、改、查等基本操作省去大量时间编写SQL语句
+  说明:DBTool是对数据库操作的面向对象的封装，使用OC runtime机制实现对sqlite的数据库的增、删、改、查等基本操作省去大量时间编写SQL语句
   
   使用:把DBTool.h、DBTool.m拖入项目中使用即可
   
